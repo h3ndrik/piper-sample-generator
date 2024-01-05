@@ -20,7 +20,7 @@ python3 -m pip install -r requirements.txt
 Download the LibriTTS-R generator (exported from [checkpoint](https://huggingface.co/datasets/rhasspy/piper-checkpoints/tree/main/en/en_US/libritts_r/medium)):
 
 ``` sh
-wget -O models/en-us-libritts-high.pt 'https://github.com/rhasspy/piper-sample-generator/releases/download/v2.0.0/en_US-libritts_r-medium.pt'
+wget -O models/en_US-libritts_r-medium.pt 'https://github.com/rhasspy/piper-sample-generator/releases/download/v2.0.0/en_US-libritts_r-medium.pt'
 ```
 
 
